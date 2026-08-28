@@ -1,4 +1,5 @@
 # Simple Notes App
+The app is deployed on Kubernetes and is used as an example to learn Kubernetes.
 This is a simple notes app built with React and Django.
 
 ## Requirements
